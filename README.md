@@ -8,7 +8,9 @@
 2019수학TALK은 수학페스티벌이 열리는 대구과학고등학교에서 진행됩니다. 수학페스티벌은 2019년 11월 02일(토) ~ 03(일) 총 이틀 간 진행되며, 수학TALK은 2019년 11월 02일(토) 오전 10시 ~ 오후 4시까지만 진행합니다.
 
 ```markdown
-![way](https://user-images.githubusercontent.com/54461017/63631527-e22a5d80-c663-11e9-890e-4dc9fb399e45.PNG)
+<div>
+ <img src = "https://user-images.githubusercontent.com/54461017/63631527-e22a5d80-c663-11e9-890e-4dc9fb399e45.PNG">
+</div>
 ```
 
 ### 수학 TALK 진행 방법
