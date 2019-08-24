@@ -1,7 +1,6 @@
-## Welcome to GitHub Pages
+## 수학TALK 공식 홈페이지
 
-You can use the [editor on GitHub](https://github.com/kbmathtalk/kbmathtalk.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
+수학페스티벌 수학TALK의 공식 홈페이지입니다. 이 홈페이지에는 2019 수학TALK의 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
